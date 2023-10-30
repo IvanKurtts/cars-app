@@ -1,10 +1,16 @@
+Deployed project: https://cars-app-ik.vercel.app/
+
 ## Getting Started
 
-Firstly, install all neccessary dependencies:
+Clone the repository:
+
+git clone https://github.com/IvanKurtts/cars-app.git
+
+Then, install all neccessary dependencies:
 
 npm install
 
-Secondly, run the development server:
+Finally, run the development server:
 
 npm run dev
 # or
